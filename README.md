@@ -11,6 +11,7 @@ Recent ChatGPT papes on topics including social bias, spreading toxicity, trait 
 ## Values and Cultural Differences
 - <a href="https://arxiv.org/abs/2301.01768">[Paper]</a> The political ideology of conversational AI: Converging evidence on ChatGPT's pro-environmental, left-libertarian orientation, Jochen Hartmann, Jasper Schwenzow, Maximilian Witte, *January 2023*
 - <a href="https://arxiv.org/abs/2203.13722">[Paper]</a> Probing Pre-Trained Language Models for Cross-Cultural Differences in Values, Arnav Arora, Lucie-Aimée Kaffee, Isabelle Augenstein, *March 2023*
+- <a href="https://arxiv.org/abs/2303.17466">[Paper]</a> Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study, Yong Cao, Li Zhou, Seolhwa Lee, Laura Cabello, Min Chen, Daniel Hershcovich, *March 2023*
 - <a href="https://arxiv.org/abs/2303.17548">[Paper]</a> Whose Opinions Do Language Models Reflect, Shibani Santurkar, Esin Durmus, Faisal Ladhak, Cinoo Lee, Percy Liang, Tatsunori Hashimoto, *March 2023*
 - <a href="https://arxiv.org/abs/2305.14456">[Paper]</a> Having Beer after Prayer? Measuring Cultural Bias in Large Language Models, Tarek Naous, Michael J. Ryan, Wei Xu, *May 2023*
 
@@ -19,8 +20,10 @@ Recent ChatGPT papes on topics including social bias, spreading toxicity, trait 
 - <a href="https://arxiv.org/abs/2304.05335">[Paper]</a> Toxicity in ChatGPT: Analyzing Persona-assigned Language Models, Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, *April 2023*
 
 ## Trait Theory
+- <a href="https://arxiv.org/abs/2204.12000">[Paper]</a> Estimating the Personality of White-Box Language Models, Saketh Reddy Karra, Son The Nguyen, Theja Tulabandhula, *April 2022*
 - <a href="https://arxiv.org/abs/2304.07333">[Paper]</a> The Self-Perception and Political Biases of ChatGPT, Jérôme Rutinowski, Sven Franke, Jan Endendyk, Ina Dormuth, Markus Pauly, *April 2023*
+- <a href="https://arxiv.org/abs/2305.19926">[Paper]</a> ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models, Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao, Michael R. Lyu, *May 2023*
 
 ## Psychiatry
 - <a href="https://psyarxiv.com/27u6z/">[Paper]</a> Cognitive network science reveals bias in GPT-3, ChatGPT, and GPT-4 mirroring math anxiety in high-school students, Katherine Elizabeth Abramski, Salvatore Citraro, Luigi Lombardi, Giulio Rossetti, Massimo Stella, *May 2023*
-- <a href="https://arxiv.org/abs/2304.11111">[Paper]/a> Inducing anxiety in large language models increases exploration and bias<, Julian Coda-Forno, Kristin Witte, Akshay K. Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz, *April 2023*
+- <a href="https://arxiv.org/abs/2304.11111">[Paper]</a> Inducing anxiety in large language models increases exploration and bias, Julian Coda-Forno, Kristin Witte, Akshay K. Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz, *April 2023*
