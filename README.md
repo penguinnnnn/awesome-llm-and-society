@@ -22,6 +22,7 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2304.05335">[Paper]</a> Toxicity in ChatGPT: Analyzing Persona-assigned Language Models, Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, *April 2023*
 
 ## Trait Theory
+- <a href="https://arxiv.org/abs/2206.07550">[Paper]</a> Evaluating and Inducing Personality in Pre-trained Language Models, Guangyuan Jiang, Manjie Xu, Song-Chun Zhu, Wenjuan Han, Chi Zhang, Yixin Zhu, *June 2022*
 - <a href="https://arxiv.org/abs/2209.14338">[Paper]</a> Who is GPT-3? An Exploration of Personality, Values and Demographics, Marilù Miotto, Nicola Rossberg, Bennett Kleinberg, *September 2022*
 - <a href="https://arxiv.org/abs/2204.12000">[Paper]</a> Estimating the Personality of White-Box Language Models, Saketh Reddy Karra, Son The Nguyen, Theja Tulabandhula, *April 2022*
 - <a href="https://arxiv.org/abs/2304.07333">[Paper]</a> The Self-Perception and Political Biases of ChatGPT, Jérôme Rutinowski, Sven Franke, Jan Endendyk, Ina Dormuth, Markus Pauly, *April 2023*
