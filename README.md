@@ -1,7 +1,7 @@
 # Papers on LLM and Society
 Recent LLM papers concerning social bias, values, culture differences, spreading toxicity, trait theory, psychiatry, and psychoanalysis. Will be continuously updated.
 
-## Bias
+## Stereotypes and Bias
 - <a href="https://arxiv.org/abs/2303.01248">[Paper]</a> Can ChatGPT Assess Human Personalities? A General Evaluation Framework, Haocong Rao, Cyril Leung, Chunyan Miao, *March 2023*
 - <a href="https://arxiv.org/abs/2305.02547">[Paper]</a> PersonaLLM: Investigating the Ability of GPT-3.5 to Express Personality Traits and Gender Differences, Hang Jiang, Xiajie Zhang, Xubo Cao, Jad Kabbara, *May 2023*
 - <a href="https://arxiv.org/abs/2305.08283">[Paper]</a> From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models, Shangbin Feng, Chan Young Park, Yuhan Liu, Yulia Tsvetkov, *May 2023*
@@ -9,12 +9,13 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2305.17926">[Paper]</a> Large Language Models are not Fair Evaluators, Peiyi Wang, Lei Li, Liang Chen, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, Tianyu Liu, Zhifang Sui, *May 2023*
 - <a href="https://arxiv.org/abs/2305.18189">[Paper]</a> Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models, Myra Cheng, Esin Durmus, Dan Jurafsky, *May 2023*
 
-## Values and Cultural Differences
+## Values and Cultural Difference Alignment
 - <a href="https://arxiv.org/abs/2301.01768">[Paper]</a> The political ideology of conversational AI: Converging evidence on ChatGPT's pro-environmental, left-libertarian orientation, Jochen Hartmann, Jasper Schwenzow, Maximilian Witte, *January 2023*
 - <a href="https://arxiv.org/abs/2203.13722">[Paper]</a> Probing Pre-Trained Language Models for Cross-Cultural Differences in Values, Arnav Arora, Lucie-Aimée Kaffee, Isabelle Augenstein, *March 2023*
 - <a href="https://arxiv.org/abs/2303.17466">[Paper]</a> Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study, Yong Cao, Li Zhou, Seolhwa Lee, Laura Cabello, Min Chen, Daniel Hershcovich, *March 2023*
 - <a href="https://arxiv.org/abs/2303.17548">[Paper]</a> Whose Opinions Do Language Models Reflect, Shibani Santurkar, Esin Durmus, Faisal Ladhak, Cinoo Lee, Percy Liang, Tatsunori Hashimoto, *March 2023*
 - <a href="https://arxiv.org/abs/2305.14456">[Paper]</a> Having Beer after Prayer? Measuring Cultural Bias in Large Language Models, Tarek Naous, Michael J. Ryan, Wei Xu, *May 2023*
+- <a href="https://arxiv.org/abs/2306.00639">[Paper]</a> Being Right for Whose Right Reasons?, Terne Sasha Thorn Jakobsen, Laura Cabello, Anders Søgaard, *June 2023*
 
 ## Toxicity
 - <a href="https://arxiv.org/abs/2301.12867">[Paper]</a> Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity, Terry Yue Zhuo, Yujin Huang, Chunyang Chen, Zhenchang Xing, *January 2023*
