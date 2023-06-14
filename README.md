@@ -3,11 +3,15 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 
 ## Stereotypes and Bias
 - <a href="https://arxiv.org/abs/2303.01248">[Paper]</a> Can ChatGPT Assess Human Personalities? A General Evaluation Framework, Haocong Rao, Cyril Leung, Chunyan Miao, *March 2023*
+- <a href="https://arxiv.org/abs/2304.03738">[Paper]</a> Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models, Emilio Ferrara, *April 2023*
 - <a href="https://arxiv.org/abs/2305.02547">[Paper]</a> PersonaLLM: Investigating the Ability of GPT-3.5 to Express Personality Traits and Gender Differences, Hang Jiang, Xiajie Zhang, Xubo Cao, Jad Kabbara, *May 2023*
 - <a href="https://arxiv.org/abs/2305.08283">[Paper]</a> From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models, Shangbin Feng, Chan Young Park, Yuhan Liu, Yulia Tsvetkov, *May 2023*
 - <a href="https://arxiv.org/abs/2305.10510">[Paper]</a> ChatGPT Perpetuates Gender Bias in Machine Translation and Ignores Non-Gendered Pronouns: Findings across Bengali and Five other Low-Resource Languages, Sourojit Ghosh, Aylin Caliskan, *May 2023*
 - <a href="https://arxiv.org/abs/2305.17926">[Paper]</a> Large Language Models are not Fair Evaluators, Peiyi Wang, Lei Li, Liang Chen, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, Tianyu Liu, Zhifang Sui, *May 2023*
 - <a href="https://arxiv.org/abs/2305.18189">[Paper]</a> Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models, Myra Cheng, Esin Durmus, Dan Jurafsky, *May 2023*
+- <a href="https://arxiv.org/abs/2306.02294">[Paper]</a> Exposing Bias in Online Communities through Large-Scale Language Models, Celine Wald, Lukas Pfahler, *June 2023*
+- <a href="https://arxiv.org/abs/2306.02428">[Paper]</a> Taught by the Internet, Exploring Bias in OpenAIs GPT3, Ali Ayaz, Aditya Nawalgaria, Ruilian Yin, *June 2023*
+- <a href="https://arxiv.org/abs/2306.04735">[Paper]</a> Soft-prompt Tuning for Large Language Models to Evaluate Bias, Jacob-Junqi Tian, David Emerson, Sevil Zanjani Miyandoab, Deval Pandya, Laleh Seyyed-Kalantari, Faiza Khan Khattak, *June 2023*
 
 ## Values and Cultural Difference Alignment
 - <a href="https://arxiv.org/abs/2301.01768">[Paper]</a> The political ideology of conversational AI: Converging evidence on ChatGPT's pro-environmental, left-libertarian orientation, Jochen Hartmann, Jasper Schwenzow, Maximilian Witte, *January 2023*
@@ -15,6 +19,7 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2303.17466">[Paper]</a> Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study, Yong Cao, Li Zhou, Seolhwa Lee, Laura Cabello, Min Chen, Daniel Hershcovich, *March 2023*
 - <a href="https://arxiv.org/abs/2303.17548">[Paper]</a> Whose Opinions Do Language Models Reflect, Shibani Santurkar, Esin Durmus, Faisal Ladhak, Cinoo Lee, Percy Liang, Tatsunori Hashimoto, *March 2023*
 - <a href="https://arxiv.org/abs/2305.14456">[Paper]</a> Having Beer after Prayer? Measuring Cultural Bias in Large Language Models, Tarek Naous, Michael J. Ryan, Wei Xu, *May 2023*
+- <a href="https://arxiv.org/abs/2305.16339">[Paper]</a> Don't Trust GPT When Your Question Is Not In English, Xiang Zhang, Senyu Li, Bradley Hauer, Ning Shi, Grzegorz Kondrak, *May 2023*
 - <a href="https://arxiv.org/abs/2306.00639">[Paper]</a> Being Right for Whose Right Reasons?, Terne Sasha Thorn Jakobsen, Laura Cabello, Anders Søgaard, *June 2023*
 
 ## Toxicity
@@ -28,8 +33,10 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2304.07333">[Paper]</a> The Self-Perception and Political Biases of ChatGPT, Jérôme Rutinowski, Sven Franke, Jan Endendyk, Ina Dormuth, Markus Pauly, *April 2023*
 - <a href="https://www.researchsquare.com/article/rs-2717108/v1">[Paper]</a> Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics, Peter Romero, Stephen Fitz, Teruo Nakatsuma, *May 2023*
 - <a href="https://arxiv.org/abs/2305.19926">[Paper]</a> ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models, Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao, Michael R. Lyu, *May 2023*
+- <a href="https://arxiv.org/abs/2306.04308">[Paper]</a> Personality testing of GPT-3: Limited temporal reliability, but highlighted social desirability of GPT-3's personality instruments results, Bojana Bodroza, Bojana M. Dinic, Ljubisa Bojic, *June 2023*
 
 ## Psychiatry
 - <a href="https://arxiv.org/abs/2212.10529">[Paper]</a> Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing, *December 2022*
 - <a href="https://arxiv.org/abs/2304.11111">[Paper]</a> Inducing anxiety in large language models increases exploration and bias, Julian Coda-Forno, Kristin Witte, Akshay K. Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz, *April 2023*
 - <a href="https://psyarxiv.com/27u6z/">[Paper]</a> Cognitive network science reveals bias in GPT-3, ChatGPT, and GPT-4 mirroring math anxiety in high-school students, Katherine Elizabeth Abramski, Salvatore Citraro, Luigi Lombardi, Giulio Rossetti, Massimo Stella, *May 2023*
+- <a href="https://arxiv.org/abs/2306.03917">[Paper]</a> Turning large language models into cognitive models, Marcel Binz, Eric Schulz, *June, 2023*
