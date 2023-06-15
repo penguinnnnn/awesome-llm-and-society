@@ -1,5 +1,5 @@
 # Papers on LLM and Society
-Recent LLM papers concerning social bias, values, culture differences, spreading toxicity, trait theory, psychiatry, and psychoanalysis. Will be continuously updated.
+Recent LLM papers concerning social bias, values, culture differences, spreading toxicity, trait theory, psychiatry, and psychoanalysis. Will be updated weekly.
 
 ## Stereotypes and Bias
 - <a href="https://arxiv.org/abs/2303.01248">[Paper]</a> Can ChatGPT Assess Human Personalities? A General Evaluation Framework, Haocong Rao, Cyril Leung, Chunyan Miao, *March 2023*
