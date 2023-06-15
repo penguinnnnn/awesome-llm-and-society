@@ -9,6 +9,7 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2305.10510">[Paper]</a> ChatGPT Perpetuates Gender Bias in Machine Translation and Ignores Non-Gendered Pronouns: Findings across Bengali and Five other Low-Resource Languages, Sourojit Ghosh, Aylin Caliskan, *May 2023*
 - <a href="https://arxiv.org/abs/2305.17926">[Paper]</a> Large Language Models are not Fair Evaluators, Peiyi Wang, Lei Li, Liang Chen, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, Tianyu Liu, Zhifang Sui, *May 2023*
 - <a href="https://arxiv.org/abs/2305.18189">[Paper]</a> Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models, Myra Cheng, Esin Durmus, Dan Jurafsky, *May 2023*
+- <a href="https://psyarxiv.com/27u6z/">[Paper]</a> Cognitive network science reveals bias in GPT-3, ChatGPT, and GPT-4 mirroring math anxiety in high-school students, Katherine Elizabeth Abramski, Salvatore Citraro, Luigi Lombardi, Giulio Rossetti, Massimo Stella, *May 2023*
 - <a href="https://arxiv.org/abs/2306.02294">[Paper]</a> Exposing Bias in Online Communities through Large-Scale Language Models, Celine Wald, Lukas Pfahler, *June 2023*
 - <a href="https://arxiv.org/abs/2306.02428">[Paper]</a> Taught by the Internet, Exploring Bias in OpenAIs GPT3, Ali Ayaz, Aditya Nawalgaria, Ruilian Yin, *June 2023*
 - <a href="https://arxiv.org/abs/2306.04735">[Paper]</a> Soft-prompt Tuning for Large Language Models to Evaluate Bias, Jacob-Junqi Tian, David Emerson, Sevil Zanjani Miyandoab, Deval Pandya, Laleh Seyyed-Kalantari, Faiza Khan Khattak, *June 2023*
@@ -38,5 +39,5 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 ## Psychiatry
 - <a href="https://arxiv.org/abs/2212.10529">[Paper]</a> Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing, *December 2022*
 - <a href="https://arxiv.org/abs/2304.11111">[Paper]</a> Inducing anxiety in large language models increases exploration and bias, Julian Coda-Forno, Kristin Witte, Akshay K. Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz, *April 2023*
-- <a href="https://psyarxiv.com/27u6z/">[Paper]</a> Cognitive network science reveals bias in GPT-3, ChatGPT, and GPT-4 mirroring math anxiety in high-school students, Katherine Elizabeth Abramski, Salvatore Citraro, Luigi Lombardi, Giulio Rossetti, Massimo Stella, *May 2023*
+- <a href="https://arxiv.org/abs/2305.12564">[Paper]</a> ChatGPT Is More Likely to Be Perceived as Male Than Female, Jared Wong, Jin Kim, *May 2023*
 - <a href="https://arxiv.org/abs/2306.03917">[Paper]</a> Turning large language models into cognitive models, Marcel Binz, Eric Schulz, *June, 2023*
