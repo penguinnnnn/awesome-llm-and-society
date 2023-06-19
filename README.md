@@ -33,7 +33,7 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2204.12000">[Paper]</a> Estimating the Personality of White-Box Language Models, Saketh Reddy Karra, Son The Nguyen, Theja Tulabandhula, *April 2022*
 - <a href="https://arxiv.org/abs/2304.07333">[Paper]</a> The Self-Perception and Political Biases of ChatGPT, Jérôme Rutinowski, Sven Franke, Jan Endendyk, Ina Dormuth, Markus Pauly, *April 2023*
 - <a href="https://www.researchsquare.com/article/rs-2717108/v1">[Paper]</a> Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics, Peter Romero, Stephen Fitz, Teruo Nakatsuma, *May 2023*
-- <a href="https://arxiv.org/abs/2305.19926">[Paper]</a> ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models, Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao, Michael R. Lyu, *May 2023*
+- <a href="https://arxiv.org/abs/2305.19926v2">[Paper]</a> ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models, Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao, Michael R. Lyu, *May 2023*
 - <a href="https://arxiv.org/abs/2306.04308">[Paper]</a> Personality testing of GPT-3: Limited temporal reliability, but highlighted social desirability of GPT-3's personality instruments results, Bojana Bodroza, Bojana M. Dinic, Ljubisa Bojic, *June 2023*
 
 ## Psychiatry
