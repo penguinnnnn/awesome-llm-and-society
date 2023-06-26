@@ -41,3 +41,11 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2304.11111">[Paper]</a> Inducing anxiety in large language models increases exploration and bias, Julian Coda-Forno, Kristin Witte, Akshay K. Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz, *April 2023*
 - <a href="https://arxiv.org/abs/2305.12564">[Paper]</a> ChatGPT Is More Likely to Be Perceived as Male Than Female, Jared Wong, Jin Kim, *May 2023*
 - <a href="https://arxiv.org/abs/2306.03917">[Paper]</a> Turning large language models into cognitive models, Marcel Binz, Eric Schulz, *June, 2023*
+
+## Input or Instruction
+- <a href="http://arxiv.org/abs/2211.09527">[Paper]</a> Ignore Previous Prompt: Attack Techniques For Language Models, Fábio Perez∗ Ian Ribeiro, *November 2022*
+- <a href="http://arxiv.org/abs/2306.05499">[Paper]</a> Prompt Injection attack against LLM-integrated Applications, Yi Liu, Gelei Deng, Yuekang Li, Kailong Wang, Tianwei Zhang, Yepang Liu, Haoyu Wang, Yan Zheng, and Yang Liu, *June 2023*
+- <a href="https://openreview.net/forum?id=89qDzjrWHLs">[Paper]</a> Can Large Language Models Truly Follow your Instructions? Joel Jang, Seongheyon Ye, Minjoon Seo, *December 2022*
+- <a href="https://www.researchsquare.com/article/rs-2873090/v1">[Paper]</a> Defending ChatGPT against Jailbreak Attack via Self-Reminder, Fangzhao Wu, Yueqi Xie, Jingwei Yi, Jiawei Shao, Justin Curl, Lingjuan Lyu, Qifeng Chen, Xing Xie, *June 2023*
+- <a href="hhttp://arxiv.org/abs/2304.12244">[Paper]</a> WizardLM: Empowering Large Language Models to Follow Complex Instructions, Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang, *April 2023*
+- <a href="http://arxiv.org/abs/2306.04528">[Paper]</a> PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts, Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zeek Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie, *December 2022*
