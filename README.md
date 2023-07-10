@@ -22,6 +22,7 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2305.14456">[Paper]</a> Having Beer after Prayer? Measuring Cultural Bias in Large Language Models, Tarek Naous, Michael J. Ryan, Wei Xu, *May 2023*
 - <a href="https://arxiv.org/abs/2305.16339">[Paper]</a> Don't Trust GPT When Your Question Is Not In English, Xiang Zhang, Senyu Li, Bradley Hauer, Ning Shi, Grzegorz Kondrak, *May 2023*
 - <a href="https://arxiv.org/abs/2306.00639">[Paper]</a> Being Right for Whose Right Reasons?, Terne Sasha Thorn Jakobsen, Laura Cabello, Anders Søgaard, *June 2023*
+- <a href="https://arxiv.org/abs/2306.16388">[Paper]</a> Towards Measuring the Representation of Subjective Global Opinions in Language Models, Esin Durmus, Karina Nyugen, Thomas I. Liao, Nicholas Schiefer, Amanda Askell, Anton Bakhtin, Carol Chen, Zac Hatfield-Dodds, Danny Hernandez, Nicholas Joseph, Liane Lovitt, Sam McCandlish, Orowa Sikder, Alex Tamkin, Janel Thamkul, Jared Kaplan, Jack Clark, Deep Ganguli, *June 2023*
 
 ## Toxicity and Jailbreaking
 - <a href="https://arxiv.org/abs/2211.09527">[Paper]</a> Ignore Previous Prompt: Attack Techniques For Language Models, Fábio Perez∗ Ian Ribeiro, *November 2022*
@@ -33,6 +34,9 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2306.04528">[Paper]</a> PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts, Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zeek Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie, *June 2023*
 - <a href="https://arxiv.org/abs/2306.05499">[Paper]</a> Prompt Injection attack against LLM-integrated Applications, Yi Liu, Gelei Deng, Yuekang Li, Kailong Wang, Tianwei Zhang, Yepang Liu, Haoyu Wang, Yan Zheng, and Yang Liu, *June 2023*
 - <a href="https://arxiv.org/abs/2306.09255">[Paper]</a> Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations, Attia Qammar, Hongmei Wang, Jianguo Ding, Abdenacer Naouri, Mahmoud Daneshmand, Huansheng Ning, *June 2023*
+- <a href="https://arxiv.org/abs/2306.15447">[Paper]</a> Are aligned neural networks adversarially aligned?, Nicholas Carlini, Milad Nasr, Christopher A. Choquette-Choo, Matthew Jagielski, Irena Gao, Anas Awadalla, Pang Wei Koh, Daphne Ippolito, Katherine Lee, Florian Tramer, Ludwig Schmidt, *June 2023*
+- <a href="https://arxiv.org/abs/2306.16244">[Paper]</a> CBBQ: A Chinese Bias Benchmark Dataset Curated with Human-AI Collaboration for Large Language Models, Yufei Huang, Deyi Xiong, *June 2023*
+- <a href="https://arxiv.org/abs/2307.02483">[Paper]</a> Jailbroken: How Does LLM Safety Training Fail?, Alexander Wei, Nika Haghtalab, Jacob Steinhardt, *July 2023*
 
 ## Trait Theory
 - <a href="https://arxiv.org/abs/2206.07550">[Paper]</a> Evaluating and Inducing Personality in Pre-trained Language Models, Guangyuan Jiang, Manjie Xu, Song-Chun Zhu, Wenjuan Han, Chi Zhang, Yixin Zhu, *June 2022*
@@ -42,6 +46,7 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://www.researchsquare.com/article/rs-2717108/v1">[Paper]</a> Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics, Peter Romero, Stephen Fitz, Teruo Nakatsuma, *May 2023*
 - <a href="https://arxiv.org/abs/2305.19926v2">[Paper]</a> ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models, Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao, Michael R. Lyu, *May 2023*
 - <a href="https://arxiv.org/abs/2306.04308">[Paper]</a> Personality testing of GPT-3: Limited temporal reliability, but highlighted social desirability of GPT-3's personality instruments results, Bojana Bodroza, Bojana M. Dinic, Ljubisa Bojic, *June 2023*
+- <a href="https://arxiv.org/abs/2307.00184">[Paper]</a> Personality Traits in Large Language Models, Mustafa Safdari, Greg Serapio-García, Clément Crepy, Stephen Fitz, Peter Romero, Luning Sun, Marwa Abdulhai, Aleksandra Faust, Maja Matarić, *July 2023*
 
 ## Psychiatry
 - <a href="https://arxiv.org/abs/2212.10529">[Paper]</a> Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing, *December 2022*
