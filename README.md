@@ -24,6 +24,7 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2305.16339">[Paper]</a> Don't Trust GPT When Your Question Is Not In English, Xiang Zhang, Senyu Li, Bradley Hauer, Ning Shi, Grzegorz Kondrak, *May 2023*
 - <a href="https://arxiv.org/abs/2306.00639">[Paper]</a> Being Right for Whose Right Reasons?, Terne Sasha Thorn Jakobsen, Laura Cabello, Anders Søgaard, *June 2023*
 - <a href="https://arxiv.org/abs/2306.16388">[Paper]</a> Towards Measuring the Representation of Subjective Global Opinions in Language Models, Esin Durmus, Karina Nyugen, Thomas I. Liao, Nicholas Schiefer, Amanda Askell, Anton Bakhtin, Carol Chen, Zac Hatfield-Dodds, Danny Hernandez, Nicholas Joseph, Liane Lovitt, Sam McCandlish, Orowa Sikder, Alex Tamkin, Janel Thamkul, Jared Kaplan, Jack Clark, Deep Ganguli, *June 2023*
+- <a href="https://arxiv.org/abs/2307.14324">[Paper]</a> Evaluating the Moral Beliefs Encoded in LLMs, Nino Scherrer, Claudia Shi, Amir Feder, David M. Blei, *July 2023*
 
 ## Toxicity and Jailbreaking
 - <a href="https://arxiv.org/abs/2211.09527">[Paper]</a> Ignore Previous Prompt: Attack Techniques For Language Models, Fábio Perez∗ Ian Ribeiro, *November 2022*
@@ -52,4 +53,6 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 ## Psychiatry
 - <a href="https://arxiv.org/abs/2212.10529">[Paper]</a> Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing, *December 2022*
 - <a href="https://arxiv.org/abs/2304.11111">[Paper]</a> Inducing anxiety in large language models increases exploration and bias, Julian Coda-Forno, Kristin Witte, Akshay K. Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz, *April 2023*
-- <a href="https://arxiv.org/abs/2305.12564">[Paper]</a> ChatGPT Is More Likely to Be Perceived as Male Than Female, Jared Wong, Jin Kim, *May 2023*
+- <a href="https://arxiv.org/abs/2305.12564">[Paper]</a> ChatGPT Is More Likely to Be Perceived as Male Than Female, Jared Wong, Jin Kim *May 2023*
+- <a href="https://arxiv.org/abs/2307.11760">[Paper]</a> EmotionPrompt: Leveraging Psychology for Large Language Models Enhancement via Emotional Stimulus, Cheng Li, Jindong Wang, Kaijie Zhu, Yixuan Zhang, Wenxin Hou, Jianxun Lian, Xing Xie *July 2023*
+- <a href="https://arxiv.org/abs/2307.13779">[Paper]</a> Is GPT a Computational Model of Emotion? Detailed Analysis, Ala N. Tak, Jonathan Gratch *July 2023*
