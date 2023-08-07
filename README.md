@@ -53,6 +53,8 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 ## Psychiatry
 - <a href="https://arxiv.org/abs/2212.10529">[Paper]</a> Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing, *December 2022*
 - <a href="https://arxiv.org/abs/2304.11111">[Paper]</a> Inducing anxiety in large language models increases exploration and bias, Julian Coda-Forno, Kristin Witte, Akshay K. Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz, *April 2023*
-- <a href="https://arxiv.org/abs/2305.12564">[Paper]</a> ChatGPT Is More Likely to Be Perceived as Male Than Female, Jared Wong, Jin Kim *May 2023*
-- <a href="https://arxiv.org/abs/2307.11760">[Paper]</a> EmotionPrompt: Leveraging Psychology for Large Language Models Enhancement via Emotional Stimulus, Cheng Li, Jindong Wang, Kaijie Zhu, Yixuan Zhang, Wenxin Hou, Jianxun Lian, Xing Xie *July 2023*
-- <a href="https://arxiv.org/abs/2307.13779">[Paper]</a> Is GPT a Computational Model of Emotion? Detailed Analysis, Ala N. Tak, Jonathan Gratch *July 2023*
+- <a href="https://arxiv.org/abs/2305.12564">[Paper]</a> ChatGPT Is More Likely to Be Perceived as Male Than Female, Jared Wong, Jin Kim, *May 2023*
+- <a href="https://arxiv.org/abs/2307.11760">[Paper]</a> EmotionPrompt: Leveraging Psychology for Large Language Models Enhancement via Emotional Stimulus, Cheng Li, Jindong Wang, Kaijie Zhu, Yixuan Zhang, Wenxin Hou, Jianxun Lian, Xing Xie, *July 2023*
+- <a href="https://arxiv.org/abs/2307.13779">[Paper]</a> Is GPT a Computational Model of Emotion? Detailed Analysis, Ala N. Tak, Jonathan Gratch, *July 2023*
+- <a href="https://arxiv.org/abs/2307.13779">[Paper]</a> Exploring the Psychology of GPT-4's Moral and Legal Reasoning, Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo, *August 2023*
+- <a href="https://arxiv.org/abs/2308.01834">[Paper]</a> The Capability of Large Language Models to Measure Psychiatric Functioning, Isaac R. Galatzer-Levy, Daniel McDuff, Vivek Natarajan, Alan Karthikesalingam, Matteo Malgaroli, *August 2023*
