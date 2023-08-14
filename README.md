@@ -58,3 +58,5 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2307.13779">[Paper]</a> Is GPT a Computational Model of Emotion? Detailed Analysis, Ala N. Tak, Jonathan Gratch, *July 2023*
 - <a href="https://arxiv.org/abs/2307.13779">[Paper]</a> Exploring the Psychology of GPT-4's Moral and Legal Reasoning, Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo, *August 2023*
 - <a href="https://arxiv.org/abs/2308.01834">[Paper]</a> The Capability of Large Language Models to Measure Psychiatric Functioning, Isaac R. Galatzer-Levy, Daniel McDuff, Vivek Natarajan, Alan Karthikesalingam, Matteo Malgaroli, *August 2023*
+- <a href="https://arxiv.org/abs/2308.03527">[Paper]</a> Exploring ChatGPT's Empathic Abilities, Kristina Schaaff, Caroline Reinig, Tim Schlippe, *August 2023*
+- <a href="https://arxiv.org/abs/2308.03656">[Paper]</a> Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench, Jen-tse Huang, Man Ho Lam, Eric John Li, Shujie Ren, Wenxuan Wang, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu, *August 2023*
