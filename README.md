@@ -1,4 +1,4 @@
-# Papers on LLM and Society
+# LLM and Society
 Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs; (3) Jailbreaking LLMs.
 
 ## Trait Theory
