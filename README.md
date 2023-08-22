@@ -1,7 +1,28 @@
 # Papers on LLM and Society
-Recent LLM papers concerning social bias, values, culture differences, spreading toxicity, trait theory, psychiatry, and psychoanalysis. Will be updated weekly.
+Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs; (3) Jailbreaking LLMs.
 
-## Stereotypes and Bias
+## Trait Theory
+- <a href="https://arxiv.org/abs/2206.07550">[Paper]</a> Evaluating and Inducing Personality in Pre-trained Language Models, Guangyuan Jiang, Manjie Xu, Song-Chun Zhu, Wenjuan Han, Chi Zhang, Yixin Zhu, *June 2022*
+- <a href="https://arxiv.org/abs/2209.14338">[Paper]</a> Who is GPT-3? An Exploration of Personality, Values and Demographics, Marilù Miotto, Nicola Rossberg, Bennett Kleinberg, *September 2022*
+- <a href="https://arxiv.org/abs/2204.12000">[Paper]</a> Estimating the Personality of White-Box Language Models, Saketh Reddy Karra, Son The Nguyen, Theja Tulabandhula, *April 2022*
+- <a href="https://arxiv.org/abs/2304.07333">[Paper]</a> The Self-Perception and Political Biases of ChatGPT, Jérôme Rutinowski, Sven Franke, Jan Endendyk, Ina Dormuth, Markus Pauly, *April 2023*
+- <a href="https://www.researchsquare.com/article/rs-2717108/v1">[Paper]</a> Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics, Peter Romero, Stephen Fitz, Teruo Nakatsuma, *May 2023*
+- <a href="https://arxiv.org/abs/2305.19926v2">[Paper]</a> ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models, Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao, Michael R. Lyu, *May 2023*
+- <a href="https://arxiv.org/abs/2306.04308">[Paper]</a> Personality testing of GPT-3: Limited temporal reliability, but highlighted social desirability of GPT-3's personality instruments results, Bojana Bodroza, Bojana M. Dinic, Ljubisa Bojic, *June 2023*
+- <a href="https://arxiv.org/abs/2307.00184">[Paper]</a> Personality Traits in Large Language Models, Mustafa Safdari, Greg Serapio-García, Clément Crepy, Stephen Fitz, Peter Romero, Luning Sun, Marwa Abdulhai, Aleksandra Faust, Maja Matarić, *July 2023*
+
+## Other Psychological Topics
+- <a href="https://arxiv.org/abs/2212.10529">[Paper]</a> Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing, *December 2022*
+- <a href="https://arxiv.org/abs/2304.11111">[Paper]</a> Inducing anxiety in large language models increases exploration and bias, Julian Coda-Forno, Kristin Witte, Akshay K. Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz, *April 2023*
+- <a href="https://arxiv.org/abs/2305.12564">[Paper]</a> ChatGPT Is More Likely to Be Perceived as Male Than Female, Jared Wong, Jin Kim, *May 2023*
+- <a href="https://arxiv.org/abs/2307.11760">[Paper]</a> EmotionPrompt: Leveraging Psychology for Large Language Models Enhancement via Emotional Stimulus, Cheng Li, Jindong Wang, Kaijie Zhu, Yixuan Zhang, Wenxin Hou, Jianxun Lian, Xing Xie, *July 2023*
+- <a href="https://arxiv.org/abs/2307.13779">[Paper]</a> Is GPT a Computational Model of Emotion? Detailed Analysis, Ala N. Tak, Jonathan Gratch, *July 2023*
+- <a href="https://arxiv.org/abs/2308.01264">[Paper]</a> Exploring the Psychology of GPT-4's Moral and Legal Reasoning, Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo, *August 2023*
+- <a href="https://arxiv.org/abs/2308.01834">[Paper]</a> The Capability of Large Language Models to Measure Psychiatric Functioning, Isaac R. Galatzer-Levy, Daniel McDuff, Vivek Natarajan, Alan Karthikesalingam, Matteo Malgaroli, *August 2023*
+- <a href="https://arxiv.org/abs/2308.03527">[Paper]</a> Exploring ChatGPT's Empathic Abilities, Kristina Schaaff, Caroline Reinig, Tim Schlippe, *August 2023*
+- <a href="https://arxiv.org/abs/2308.03656">[Paper]</a> Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench, Jen-tse Huang, Man Ho Lam, Eric John Li, Shujie Ren, Wenxuan Wang, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu, *August 2023*
+
+## Stereotype and Bias
 - <a href="https://arxiv.org/abs/2303.01248">[Paper]</a> Can ChatGPT Assess Human Personalities? A General Evaluation Framework, Haocong Rao, Cyril Leung, Chunyan Miao, *March 2023*
 - <a href="https://arxiv.org/abs/2304.03738">[Paper]</a> Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models, Emilio Ferrara, *April 2023*
 - <a href="https://arxiv.org/abs/2305.02547">[Paper]</a> PersonaLLM: Investigating the Ability of GPT-3.5 to Express Personality Traits and Gender Differences, Hang Jiang, Xiajie Zhang, Xubo Cao, Jad Kabbara, *May 2023*
@@ -15,7 +36,7 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2306.02428">[Paper]</a> Taught by the Internet, Exploring Bias in OpenAIs GPT3, Ali Ayaz, Aditya Nawalgaria, Ruilian Yin, *June 2023*
 - <a href="https://arxiv.org/abs/2306.04735">[Paper]</a> Soft-prompt Tuning for Large Language Models to Evaluate Bias, Jacob-Junqi Tian, David Emerson, Sevil Zanjani Miyandoab, Deval Pandya, Laleh Seyyed-Kalantari, Faiza Khan Khattak, *June 2023*
 
-## Values and Cultural Difference Alignment
+## Cross-Cultural Difference
 - <a href="https://arxiv.org/abs/2301.01768">[Paper]</a> The political ideology of conversational AI: Converging evidence on ChatGPT's pro-environmental, left-libertarian orientation, Jochen Hartmann, Jasper Schwenzow, Maximilian Witte, *January 2023*
 - <a href="https://arxiv.org/abs/2203.13722">[Paper]</a> Probing Pre-Trained Language Models for Cross-Cultural Differences in Values, Arnav Arora, Lucie-Aimée Kaffee, Isabelle Augenstein, *March 2023*
 - <a href="https://arxiv.org/abs/2303.17466">[Paper]</a> Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study, Yong Cao, Li Zhou, Seolhwa Lee, Laura Cabello, Min Chen, Daniel Hershcovich, *March 2023*
@@ -39,24 +60,3 @@ Recent LLM papers concerning social bias, values, culture differences, spreading
 - <a href="https://arxiv.org/abs/2306.15447">[Paper]</a> Are aligned neural networks adversarially aligned?, Nicholas Carlini, Milad Nasr, Christopher A. Choquette-Choo, Matthew Jagielski, Irena Gao, Anas Awadalla, Pang Wei Koh, Daphne Ippolito, Katherine Lee, Florian Tramer, Ludwig Schmidt, *June 2023*
 - <a href="https://arxiv.org/abs/2306.16244">[Paper]</a> CBBQ: A Chinese Bias Benchmark Dataset Curated with Human-AI Collaboration for Large Language Models, Yufei Huang, Deyi Xiong, *June 2023*
 - <a href="https://arxiv.org/abs/2307.02483">[Paper]</a> Jailbroken: How Does LLM Safety Training Fail?, Alexander Wei, Nika Haghtalab, Jacob Steinhardt, *July 2023*
-
-## Trait Theory
-- <a href="https://arxiv.org/abs/2206.07550">[Paper]</a> Evaluating and Inducing Personality in Pre-trained Language Models, Guangyuan Jiang, Manjie Xu, Song-Chun Zhu, Wenjuan Han, Chi Zhang, Yixin Zhu, *June 2022*
-- <a href="https://arxiv.org/abs/2209.14338">[Paper]</a> Who is GPT-3? An Exploration of Personality, Values and Demographics, Marilù Miotto, Nicola Rossberg, Bennett Kleinberg, *September 2022*
-- <a href="https://arxiv.org/abs/2204.12000">[Paper]</a> Estimating the Personality of White-Box Language Models, Saketh Reddy Karra, Son The Nguyen, Theja Tulabandhula, *April 2022*
-- <a href="https://arxiv.org/abs/2304.07333">[Paper]</a> The Self-Perception and Political Biases of ChatGPT, Jérôme Rutinowski, Sven Franke, Jan Endendyk, Ina Dormuth, Markus Pauly, *April 2023*
-- <a href="https://www.researchsquare.com/article/rs-2717108/v1">[Paper]</a> Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics, Peter Romero, Stephen Fitz, Teruo Nakatsuma, *May 2023*
-- <a href="https://arxiv.org/abs/2305.19926v2">[Paper]</a> ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models, Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao, Michael R. Lyu, *May 2023*
-- <a href="https://arxiv.org/abs/2306.04308">[Paper]</a> Personality testing of GPT-3: Limited temporal reliability, but highlighted social desirability of GPT-3's personality instruments results, Bojana Bodroza, Bojana M. Dinic, Ljubisa Bojic, *June 2023*
-- <a href="https://arxiv.org/abs/2307.00184">[Paper]</a> Personality Traits in Large Language Models, Mustafa Safdari, Greg Serapio-García, Clément Crepy, Stephen Fitz, Peter Romero, Luning Sun, Marwa Abdulhai, Aleksandra Faust, Maja Matarić, *July 2023*
-
-## Psychiatry
-- <a href="https://arxiv.org/abs/2212.10529">[Paper]</a> Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing, *December 2022*
-- <a href="https://arxiv.org/abs/2304.11111">[Paper]</a> Inducing anxiety in large language models increases exploration and bias, Julian Coda-Forno, Kristin Witte, Akshay K. Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz, *April 2023*
-- <a href="https://arxiv.org/abs/2305.12564">[Paper]</a> ChatGPT Is More Likely to Be Perceived as Male Than Female, Jared Wong, Jin Kim, *May 2023*
-- <a href="https://arxiv.org/abs/2307.11760">[Paper]</a> EmotionPrompt: Leveraging Psychology for Large Language Models Enhancement via Emotional Stimulus, Cheng Li, Jindong Wang, Kaijie Zhu, Yixuan Zhang, Wenxin Hou, Jianxun Lian, Xing Xie, *July 2023*
-- <a href="https://arxiv.org/abs/2307.13779">[Paper]</a> Is GPT a Computational Model of Emotion? Detailed Analysis, Ala N. Tak, Jonathan Gratch, *July 2023*
-- <a href="https://arxiv.org/abs/2308.01264">[Paper]</a> Exploring the Psychology of GPT-4's Moral and Legal Reasoning, Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo, *August 2023*
-- <a href="https://arxiv.org/abs/2308.01834">[Paper]</a> The Capability of Large Language Models to Measure Psychiatric Functioning, Isaac R. Galatzer-Levy, Daniel McDuff, Vivek Natarajan, Alan Karthikesalingam, Matteo Malgaroli, *August 2023*
-- <a href="https://arxiv.org/abs/2308.03527">[Paper]</a> Exploring ChatGPT's Empathic Abilities, Kristina Schaaff, Caroline Reinig, Tim Schlippe, *August 2023*
-- <a href="https://arxiv.org/abs/2308.03656">[Paper]</a> Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench, Jen-tse Huang, Man Ho Lam, Eric John Li, Shujie Ren, Wenxuan Wang, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu, *August 2023*
