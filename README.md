@@ -48,7 +48,7 @@ Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs; (3) Jailbreaking LL
 - <a href="https://arxiv.org/abs/2307.14324">[Paper]</a> Evaluating the Moral Beliefs Encoded in LLMs, Nino Scherrer, Claudia Shi, Amir Feder, David M. Blei, *July 2023*
 
 ## Toxicity and Jailbreaking
-- <a href="https://arxiv.org/abs/2211.09527">[Paper]</a> Ignore Previous Prompt: Attack Techniques For Language Models, Fábio Perez∗ Ian Ribeiro, *November 2022*
+- <a href="https://arxiv.org/abs/2211.09527">[Paper]</a> Ignore Previous Prompt: Attack Techniques For Language Models, Fábio Perez, Ian Ribeiro, *November 2022*
 - <a href="https://openreview.net/forum?id=89qDzjrWHLs">[Paper]</a> Can Large Language Models Truly Follow your Instructions? Joel Jang, Seongheyon Ye, Minjoon Seo, *December 2022*
 - <a href="https://arxiv.org/abs/2301.12867">[Paper]</a> Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity, Terry Yue Zhuo, Yujin Huang, Chunyang Chen, Zhenchang Xing, *January 2023*
 - <a href="https://arxiv.org/abs/2304.05335">[Paper]</a> Toxicity in ChatGPT: Analyzing Persona-assigned Language Models, Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, *April 2023*
