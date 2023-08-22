@@ -10,6 +10,7 @@ Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs; (3) Jailbreaking LL
 - <a href="https://arxiv.org/abs/2305.19926v2">[Paper]</a> ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models, Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao, Michael R. Lyu, *May 2023*
 - <a href="https://arxiv.org/abs/2306.04308">[Paper]</a> Personality testing of GPT-3: Limited temporal reliability, but highlighted social desirability of GPT-3's personality instruments results, Bojana Bodroza, Bojana M. Dinic, Ljubisa Bojic, *June 2023*
 - <a href="https://arxiv.org/abs/2307.00184">[Paper]</a> Personality Traits in Large Language Models, Mustafa Safdari, Greg Serapio-García, Clément Crepy, Stephen Fitz, Peter Romero, Luning Sun, Marwa Abdulhai, Aleksandra Faust, Maja Matarić, *July 2023*
+- <a href="https://arxiv.org/abs/2307.16180">[Paper]</a> Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models, Keyu Pan, Yawen Zeng, *July 2023*
 
 ## Other Psychological Topics
 - <a href="https://arxiv.org/abs/2212.10529">[Paper]</a> Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing, *December 2022*
