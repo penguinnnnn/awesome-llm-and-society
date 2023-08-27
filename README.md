@@ -18,6 +18,7 @@ Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs; (3) Jailbreaking LL
 - <a href="https://arxiv.org/abs/2305.12564">[Paper]</a> ChatGPT Is More Likely to Be Perceived as Male Than Female, Jared Wong, Jin Kim, *May 2023*
 - <a href="https://arxiv.org/abs/2307.11760">[Paper]</a> EmotionPrompt: Leveraging Psychology for Large Language Models Enhancement via Emotional Stimulus, Cheng Li, Jindong Wang, Kaijie Zhu, Yixuan Zhang, Wenxin Hou, Jianxun Lian, Xing Xie, *July 2023*
 - <a href="https://arxiv.org/abs/2307.13779">[Paper]</a> Is GPT a Computational Model of Emotion? Detailed Analysis, Ala N. Tak, Jonathan Gratch, *July 2023*
+- <a href="https://arxiv.org/abs/2307.14324">[Paper]</a> Evaluating the Moral Beliefs Encoded in LLMs, Nino Scherrer, Claudia Shi, Amir Feder, David M. Blei, *July 2023*
 - <a href="https://arxiv.org/abs/2308.01264">[Paper]</a> Exploring the Psychology of GPT-4's Moral and Legal Reasoning, Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo, *August 2023*
 - <a href="https://arxiv.org/abs/2308.01834">[Paper]</a> The Capability of Large Language Models to Measure Psychiatric Functioning, Isaac R. Galatzer-Levy, Daniel McDuff, Vivek Natarajan, Alan Karthikesalingam, Matteo Malgaroli, *August 2023*
 - <a href="https://arxiv.org/abs/2308.03527">[Paper]</a> Exploring ChatGPT's Empathic Abilities, Kristina Schaaff, Caroline Reinig, Tim Schlippe, *August 2023*
