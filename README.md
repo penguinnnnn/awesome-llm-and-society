@@ -12,6 +12,8 @@ Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs; (3) Jailbreaking LL
 - <a href="https://arxiv.org/abs/2306.04308">[Paper]</a> Personality testing of GPT-3: Limited temporal reliability, but highlighted social desirability of GPT-3's personality instruments results, Bojana Bodroza, Bojana M. Dinic, Ljubisa Bojic, *June 2023*
 - <a href="https://arxiv.org/abs/2307.00184">[Paper]</a> Personality Traits in Large Language Models, Mustafa Safdari, Greg Serapio-García, Clément Crepy, Stephen Fitz, Peter Romero, Luning Sun, Marwa Abdulhai, Aleksandra Faust, Maja Matarić, *July 2023*
 - <a href="https://arxiv.org/abs/2307.16180">[Paper]</a> Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models, Keyu Pan, Yawen Zeng, *July 2023*
+- <a href="https://arxiv.org/abs/2308.07326">[Paper]</a> AI Text-to-Behavior: A Study In Steerability, David Noever, Sam Hyams, *August 2023*
+- <a href="https://arxiv.org/abs/2308.10278">[Paper]</a> CharacterChat: Learning towards Conversational AI with Personalized Social Support, Quan Tu, Chuanqi Chen, Jinpeng Li, Yanran Li, Shuo Shang, Dongyan Zhao, Ran Wang, Rui Yan, *August 2023*
 
 ## Other Psychological Topics
 - <a href="https://arxiv.org/abs/2212.10529">[Paper]</a> Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing, *December 2022*
@@ -25,6 +27,7 @@ Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs; (3) Jailbreaking LL
 - <a href="https://arxiv.org/abs/2308.01834">[Paper]</a> The Capability of Large Language Models to Measure Psychiatric Functioning, Isaac R. Galatzer-Levy, Daniel McDuff, Vivek Natarajan, Alan Karthikesalingam, Matteo Malgaroli, *August 2023*
 - <a href="https://arxiv.org/abs/2308.03527">[Paper]</a> Exploring ChatGPT's Empathic Abilities, Kristina Schaaff, Caroline Reinig, Tim Schlippe, *August 2023*
 - <a href="https://arxiv.org/abs/2308.03656">[Paper]</a> Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench, Jen-tse Huang, Man Ho Lam, Eric John Li, Shujie Ren, Wenxuan Wang, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu, *August 2023*
+- <a href="https://arxiv.org/abs/2308.14242">[Paper]</a> The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?, Chuanyang Jin, Songyang Zhang, Tianmin Shu, Zhihan Cui, *August 2023*
 
 ## Stereotype and Bias
 - <a href="https://arxiv.org/abs/2303.01248">[Paper]</a> Can ChatGPT Assess Human Personalities? A General Evaluation Framework, Haocong Rao, Cyril Leung, Chunyan Miao, *March 2023*
