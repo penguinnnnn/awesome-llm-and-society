@@ -1,5 +1,5 @@
 # LLM and Society
-Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs; (3) Jailbreaking LLMs.
+Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs.
 
 ## Trait Theory
 - <a href="https://arxiv.org/abs/2206.07550">[Paper]</a> Evaluating and Inducing Personality in Pre-trained Language Models, Guangyuan Jiang, Manjie Xu, Song-Chun Zhu, Wenjuan Han, Chi Zhang, Yixin Zhu, *June 2022*
@@ -53,17 +53,3 @@ Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs; (3) Jailbreaking LL
 - <a href="https://arxiv.org/abs/2306.00639">[Paper]</a> Being Right for Whose Right Reasons?, Terne Sasha Thorn Jakobsen, Laura Cabello, Anders Søgaard, *June 2023*
 - <a href="https://arxiv.org/abs/2306.16388">[Paper]</a> Towards Measuring the Representation of Subjective Global Opinions in Language Models, Esin Durmus, Karina Nyugen, Thomas I. Liao, Nicholas Schiefer, Amanda Askell, Anton Bakhtin, Carol Chen, Zac Hatfield-Dodds, Danny Hernandez, Nicholas Joseph, Liane Lovitt, Sam McCandlish, Orowa Sikder, Alex Tamkin, Janel Thamkul, Jared Kaplan, Jack Clark, Deep Ganguli, *June 2023*
 - <a href="https://arxiv.org/abs/2307.14324">[Paper]</a> Evaluating the Moral Beliefs Encoded in LLMs, Nino Scherrer, Claudia Shi, Amir Feder, David M. Blei, *July 2023*
-
-## Toxicity and Jailbreaking
-- <a href="https://arxiv.org/abs/2211.09527">[Paper]</a> Ignore Previous Prompt: Attack Techniques For Language Models, Fábio Perez, Ian Ribeiro, *November 2022*
-- <a href="https://openreview.net/forum?id=89qDzjrWHLs">[Paper]</a> Can Large Language Models Truly Follow your Instructions? Joel Jang, Seongheyon Ye, Minjoon Seo, *December 2022*
-- <a href="https://arxiv.org/abs/2301.12867">[Paper]</a> Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity, Terry Yue Zhuo, Yujin Huang, Chunyang Chen, Zhenchang Xing, *January 2023*
-- <a href="https://arxiv.org/abs/2304.05335">[Paper]</a> Toxicity in ChatGPT: Analyzing Persona-assigned Language Models, Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, *April 2023*
-- <a href="https://arxiv.org/abs/2304.12244">[Paper]</a> WizardLM: Empowering Large Language Models to Follow Complex Instructions, Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang, *April 2023*
-- <a href="https://www.researchsquare.com/article/rs-2873090/v1">[Paper]</a> Defending ChatGPT against Jailbreak Attack via Self-Reminder, Fangzhao Wu, Yueqi Xie, Jingwei Yi, Jiawei Shao, Justin Curl, Lingjuan Lyu, Qifeng Chen, Xing Xie, *June 2023*
-- <a href="https://arxiv.org/abs/2306.04528">[Paper]</a> PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts, Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zeek Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie, *June 2023*
-- <a href="https://arxiv.org/abs/2306.05499">[Paper]</a> Prompt Injection attack against LLM-integrated Applications, Yi Liu, Gelei Deng, Yuekang Li, Kailong Wang, Tianwei Zhang, Yepang Liu, Haoyu Wang, Yan Zheng, and Yang Liu, *June 2023*
-- <a href="https://arxiv.org/abs/2306.09255">[Paper]</a> Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations, Attia Qammar, Hongmei Wang, Jianguo Ding, Abdenacer Naouri, Mahmoud Daneshmand, Huansheng Ning, *June 2023*
-- <a href="https://arxiv.org/abs/2306.15447">[Paper]</a> Are aligned neural networks adversarially aligned?, Nicholas Carlini, Milad Nasr, Christopher A. Choquette-Choo, Matthew Jagielski, Irena Gao, Anas Awadalla, Pang Wei Koh, Daphne Ippolito, Katherine Lee, Florian Tramer, Ludwig Schmidt, *June 2023*
-- <a href="https://arxiv.org/abs/2306.16244">[Paper]</a> CBBQ: A Chinese Bias Benchmark Dataset Curated with Human-AI Collaboration for Large Language Models, Yufei Huang, Deyi Xiong, *June 2023*
-- <a href="https://arxiv.org/abs/2307.02483">[Paper]</a> Jailbroken: How Does LLM Safety Training Fail?, Alexander Wei, Nika Haghtalab, Jacob Steinhardt, *July 2023*
