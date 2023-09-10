@@ -17,6 +17,7 @@ Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs.
 
 ## Other Psychological Topics
 - <a href="https://arxiv.org/abs/2212.10529">[Paper]</a> Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing, *December 2022*
+- <a href="https://arxiv.org/abs/2302.07267">[Paper]</a> "Correct answers" from the psychology of artificial intelligence, Peter S. Park, Philipp Schoenegger, Chongyang Zhu, *February 2023*
 - <a href="https://arxiv.org/abs/2304.11111">[Paper]</a> Inducing anxiety in large language models increases exploration and bias, Julian Coda-Forno, Kristin Witte, Akshay K. Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz, *April 2023*
 - <a href="https://arxiv.org/abs/2305.12564">[Paper]</a> ChatGPT Is More Likely to Be Perceived as Male Than Female, Jared Wong, Jin Kim, *May 2023*
 - <a href="https://arxiv.org/abs/2307.09042">[Paper]</a> Emotional Intelligence of Large Language Models, Xuena Wang, Xueting Li, Zi Yin, Yue Wu, Liu Jia, *July 2023*
