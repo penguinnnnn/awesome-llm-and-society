@@ -15,6 +15,7 @@ Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs.
 - <a href="https://arxiv.org/abs/2308.07326">[Paper]</a> AI Text-to-Behavior: A Study In Steerability, David Noever, Sam Hyams, *August 2023*
 - <a href="https://arxiv.org/abs/2308.10278">[Paper]</a> CharacterChat: Learning towards Conversational AI with Personalized Social Support, Quan Tu, Chuanqi Chen, Jinpeng Li, Yanran Li, Shuo Shang, Dongyan Zhao, Ran Wang, Rui Yan, *August 2023*
 - <a href="https://arxiv.org/abs/2309.08163">[Paper]</a> Investigating the Applicability of Self-Assessment Tests for Personality Measurement of Large Language Models, Akshat Gupta, Xiaoyang Song, Gopala Anumanchipalli, *September 2023*
+- <a href="https://arxiv.org/abs/2310.17976">[Paper]</a> Does Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots, Xintao Wang, Quan Tu, Yaying Fei, Ziang Leng, Cheng Li, *October 2023*
 
 ## Other Psychological Topics
 - <a href="https://arxiv.org/abs/2212.10529">[Paper]</a> Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, Xingxuan Li, Yutong Li, Shafiq Joty, Linlin Liu, Fei Huang, Lin Qiu, Lidong Bing, *December 2022*
